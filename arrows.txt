@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 One thousand burning arrows
 
 Fill the starlit sky
+=======
+The ship glides gently on the waves
+As day turns into night
+>>>>>>> 63ebd33 (a new file arrows.txt)
